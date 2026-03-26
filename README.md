@@ -1,4 +1,5 @@
 # Receiver-Sensitivity
+
 # Optical Receiver Sensitivity Analysis
 
 ## Objective
@@ -31,6 +32,11 @@ Receiver specifications:
 
 Using the formulas above, calculate the receiver sensitivity.
 
+![WhatsApp Image 2026-02-14 at 2 31 06 PM](https://github.com/user-attachments/assets/f8fb4ce1-20d5-465d-82c2-e5f5f2c60c71)
+
+
+
+
 ---
 
 ## Layout
@@ -57,7 +63,13 @@ Steps:
 1. Adjust output power to **0 dBm**.  
 2. Set attenuator to **20 dB**.  
 3. Run the simulation.  
-4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
+4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.
+
+   
+<img width="1920" height="1080" alt="OCN Receiver Screenshot" src="https://github.com/user-attachments/assets/ffe6d456-21ef-4166-bc16-7c5ca27f38e6" />
+
+
+
 
 ---
 
@@ -68,6 +80,9 @@ Your report should include:
   - Power readings  
   - BER analyzer output  
   - Eye diagram  
-- Discussion of differences between analytical and simulation results.  
+- Discussion of differences between analytical and simulation results.
+
+## Result
+  Thus the Experiment was successfully completed and the output is verified.
 
 ---
